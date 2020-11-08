@@ -8,8 +8,6 @@
 <br />
 <br />
 
-[![Discord](https://www.beeferdev.wtf/images/26obc9zr.png)](https://beeferdev.wtf/discord)
-
 <br />
 
 [website]: https://beeferdev.wtf/
