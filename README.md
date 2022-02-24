@@ -17,7 +17,7 @@ A normal human and developer.
 [disbotdiscord]: https://disbot.top/discord
 [disbottwitter]: https://disbot.top/twitter
 [botguyswebsite]: https://botguys.net
-[botguysdiscord]: https://botguys.net/discord
+[botguysdiscord]: https://discord.gg/2jKE4yY
 
 
 
