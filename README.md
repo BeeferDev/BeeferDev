@@ -1,24 +1,21 @@
 
-A normal human and developer. 
+Information about the Goated Ghost!
 ---
 
-#### Disbot.top - Co-Founder / Developer
-
-- [Website][disbotwebsite]
-- [Discord][disbotdiscord]
-- [Twitter][disbottwitter]
-
-#### TheBotGuys - Co-Founder / Developer
-
-- [Website][botguyswebsite]
-- [Discord][botguysdiscord]
-
-[disbotwebsite]: https://disbot.top
-[disbotdiscord]: https://disbot.top/discord
-[disbottwitter]: https://disbot.top/twitter
-[botguyswebsite]: https://botguys.net
-[botguysdiscord]: https://discord.gg/2jKE4yY
-
-
-
-
+```json
+{
+  "name": "My middle name is 4 letters long & starts with a N. Figure it out yourself.",
+  "age": "22",
+  "location": "North Carolina, USA",
+  "aliases": {
+      "1": "Beefer",
+      "2": "nothingbutbeams",
+      "3": "nbb"
+  },
+  "favs": {
+      "1": "Playdough - https://plutos.world/",
+      "2": "The Goated Kangaroo - https://faxes.zone/"
+  },
+  "description": "I'm a normal human and developer. I'm basically a ghost that lerks around now."
+}
+```
